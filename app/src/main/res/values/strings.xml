@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PR-24-1</string>
+    <string name="textview" />
+    <string name="ok" />
+    <string name="cancel" />
+    <string name="textview1">textview1</string>
+    <string name="ok1">ok1</string>
+    <string name="Cancel">Cancel</string>
+</resources>
